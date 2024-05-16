@@ -12,3 +12,6 @@ Key features:
 - 🔍 Evaluation of different distance metrics and K values
 - 📈 Performance analysis using various metrics (accuracy, precision, recall, F1 score, Jaccard index)
 - 📊 Visualization of results with confusion matrices and plots
+
+# License 📄
+This project is licensed under the MIT License.
