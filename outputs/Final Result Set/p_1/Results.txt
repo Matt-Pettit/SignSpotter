@@ -1,0 +1,36 @@
+=======================
+Benchmarking System:
+Training Data Size: 12000
+Test Data Size: 7172
+P = 1
+=======================
+K Value: 1
+Accuracy: 0.7982431678750698
+Average Jaccard similarity coefficient score: 0.6766685173351479%
+Precision: 0.8000258926172283
+Recall: 0.7865787034393641
+F1-Score: 0.7858499953943401
+K Value: 2
+Accuracy: 0.7663134411600669
+Average Jaccard similarity coefficient score: 0.6348831757917064%
+Precision: 0.7834389263813014
+Recall: 0.756478772420996
+F1-Score: 0.7519746745006725
+K Value: 3
+Accuracy: 0.770914668153932
+Average Jaccard similarity coefficient score: 0.6422964537332879%
+Precision: 0.7840557266993057
+Recall: 0.7595841881590424
+F1-Score: 0.7582382598483397
+K Value: 4
+Accuracy: 0.7571109871723368
+Average Jaccard similarity coefficient score: 0.6229080130059491%
+Precision: 0.7667700758518702
+Recall: 0.7447691765166707
+F1-Score: 0.7426586713325936
+K Value: 5
+Accuracy: 0.7455382041271612
+Average Jaccard similarity coefficient score: 0.6080783251362031%
+Precision: 0.7536551174725012
+Recall: 0.7312030239188196
+F1-Score: 0.7302592874599633
