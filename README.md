@@ -1,5 +1,5 @@
 # KNN Optimization for ASL Recognition 👋
-This project aims to design and implement a machine learning system capable of accurately classifying individual hand signs from static images representing the 24 letters of the American Sign Language (ASL) alphabet, excluding i and j. The system utilizes the K-Nearest Neighbor (KNN) algorithm and explores different hyperparameters to optimize its performance. The dataset is from kaggle: https://www.kaggle.com/datasets/ash2703/handsignimages
+This project aims to design and implement a machine learning system capable of accurately classifying individual hand signs from static images representing the 24 letters of the American Sign Language (ASL) alphabet, excluding i and j. The system utilizes the K-Nearest Neighbor (KNN) algorithm and explores different hyperparameters to optimize its performance. The dataset is from kaggle: https://www.kaggle.com/datasets/ash2703/handsignimages .
 
 # Authors 💻
 - Holly Lewis
